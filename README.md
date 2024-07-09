@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushil Goomer</h1>
-<h3 align="center">A passionate Machine Learning Engineer with Experience in AWS MLOps</h3>
+<h3 align="center">Machine Learning Engineer with Experience in AWS MLOps</h3>
 
 - 🔭 I’m currently working with **WeatherLogics**
 
@@ -8,6 +8,8 @@
 - 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **rushilgoomer@gmail.com**
+
+- 📚 My Publications in AI **https://scholar.google.com/citations?user=canCu8EAAAAJ&hl=en**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
