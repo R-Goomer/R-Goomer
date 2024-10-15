@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rushil Goomer</h1>
 <h3 align="center">Machine Learning Engineer with Experience in AWS MLOps</h3>
 
-- 🔭 I’m currently working with **WeatherLogics**
+- 🔭 I’m currently working with **Uniphore**
 
-- 🌱 I’m currently learning **AWS Sagemaker, Model Registry and Studio**
+- 🌱 I’m currently learning **LLM Evaluations, AWS Sagemaker, Model Registry and Studio**
 
 - 💬 Ask me about **Machine Learning**
 
